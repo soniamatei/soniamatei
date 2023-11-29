@@ -21,7 +21,7 @@
 <div>
   <p align="center">
     <img src="https://img.shields.io/badge/PyCharm-FFD500.svg?&style=for-the-badge&logo=PyCharm&logoColor=black" alt="PyCharm">
-    <img src="https://img.shields.io/badge/datagrip-FF00BB?style=for-the-badge&logo=datagrip" alt="DataGrip">
+    <img src="https://img.shields.io/badge/dataspell-FF00BB?style=for-the-badge&logo=jetbrains">
     <img src="https://img.shields.io/badge/CLion-FF0A0A?style=for-the-badge&logo=clion&logoColor=white" alt="CLion">
     <img src="https://img.shields.io/badge/Android_Studio-21D43E?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
     <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="WebStorm">
