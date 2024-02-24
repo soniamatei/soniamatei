@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
     <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI">
+    <img alt="Static Badge" src="https://img.shields.io/badge/MPI_C%2B%2B-b?style=for-the-badge&logo=cplusplus&color=%23bb1a13">
     <img src="https://img.shields.io/badge/jetpack_compose-1E3E71?style=for-the-badge&logo=jetpackcompose" alt="Jetpack Compose">
   </p>
 </div>
@@ -25,6 +26,7 @@
     <img src="https://img.shields.io/badge/CLion-FF0A0A?style=for-the-badge&logo=clion&logoColor=white" alt="CLion">
     <img src="https://img.shields.io/badge/Android_Studio-21D43E?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
     <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="WebStorm">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-blue?style=for-the-badge&logo=visual%20studio%20code&color=%230066b8">
     <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime Text">
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio">
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
@@ -35,10 +37,10 @@
 <div>
   <p align="center">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/microsoft_sql_server-761615?style=for-the-badge&logo=microsoftsqlserver" alt="Microsoft SQL Server">
+    <img src="https://img.shields.io/badge/Weights_and_Biases-b?style=for-the-badge&logo=weightsandbiases&color=%23c99d18" alt="wandb">
     <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+    <img src="https://img.shields.io/badge/microsoft_sql_server-761615?style=for-the-badge&logo=microsoftsqlserver" alt="Microsoft SQL Server">
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS">
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
