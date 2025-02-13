@@ -7,12 +7,12 @@
 <h3 align="center">Libraries and Frameworks</h3>
   <div>
   <p align="center">
-    <img src="https://img.shields.io/badge/numpy-blue?style=for-the-badge&logo=numpy" alt="NumPy">
     <img src="https://img.shields.io/badge/pytorch-723327?style=for-the-badge&logo=pytorch" alt="PyTorch">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+    <img src="https://img.shields.io/badge/numpy-blue?style=for-the-badge&logo=numpy" alt="NumPy">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+<!--     <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI"> -->
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-    <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI">
     <img alt="Static Badge" src="https://img.shields.io/badge/MPI_C%2B%2B-b?style=for-the-badge&logo=cplusplus&color=%23bb1a13">
     <img src="https://img.shields.io/badge/jetpack_compose-1E3E71?style=for-the-badge&logo=jetpackcompose" alt="Jetpack Compose">
   </p>
@@ -21,15 +21,15 @@
 <h3 align="center">IDEs</h3>
 <div>
   <p align="center">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-blue?style=for-the-badge&logo=visual%20studio%20code&color=%230066b8">
     <img src="https://img.shields.io/badge/PyCharm-FFD500.svg?&style=for-the-badge&logo=PyCharm&logoColor=black" alt="PyCharm">
     <img src="https://img.shields.io/badge/dataspell-FF00BB?style=for-the-badge&logo=jetbrains">
     <img src="https://img.shields.io/badge/CLion-FF0A0A?style=for-the-badge&logo=clion&logoColor=white" alt="CLion">
-    <img src="https://img.shields.io/badge/Android_Studio-21D43E?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
-    <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="WebStorm">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-blue?style=for-the-badge&logo=visual%20studio%20code&color=%230066b8">
     <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime Text">
-    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio">
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+    <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="WebStorm">
+    <img src="https://img.shields.io/badge/Android_Studio-21D43E?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+<!--     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"> -->
+<!--     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio"> -->
   </p>
 </div>
 
